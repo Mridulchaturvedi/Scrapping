@@ -1,5 +1,5 @@
 # Scrapping
-Scrapping nobroker (just for educational purposes) as an assignment 
+Scrapping nobroker (just for educational purposes) as an mini project
 scraped multiple cities url to collect data
 
 changed the data through hardcoding from float or string to int 
